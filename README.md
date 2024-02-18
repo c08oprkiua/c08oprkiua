@@ -15,6 +15,7 @@
 * Interests:
   * Miiverse
   * Writing documentation
+  * Low level program optimizations
   * Godot engine
   * game console homebrew
 * Projects I have in the works:

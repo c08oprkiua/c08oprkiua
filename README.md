@@ -7,6 +7,7 @@
 
 # Programming info
 * Member of Homebrodot (we port Godot to consoles via homebrew)
+* My average project work speed is that of a tortoise
 * Programming languages:
   * GDScript
   * C/C++
@@ -21,6 +22,9 @@
   * Documenting the Miiverse game API
   * Godot for Wii U: Very early on port of Godot 4 to Wii U
   * MiiTraverse: an app for accessing Miiverse revivals from a mobile device (primarily Android, but also other platforms)
+  * Godot 4 engine modules:
+    * `gd_olv`: Use Miiverse integration features in your Godot games!
+    * Mii classes: Use Miis in your Godot games!
   * ...And more
 
 

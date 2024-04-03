@@ -28,7 +28,7 @@
 * [MiiTraverse](https://github.com/c08oprkiua/miitraverse): an app for accessing Miiverse revivals from a mobile device (primarily Android, but also other platforms)
 * [aRAMa](https://github.com/c08oprkiua/aRAMa): A rewrite and port of the popular [TCPGecko](https://github.com/BullyWiiPlaza/tcpgecko) application for Wii U, to the Aroma CFW
 * Godot 4 engine modules:
-  * [`gd_olv`](https://github.com/c08oprkiua/gd_olv): A (hopefully) easy to use Miiverse integration module, to make Miiverse integration into Godot projects very easy to do.
+  * [`gd_olv`](https://github.com/c08oprkiua/gd_olv): A (hopefully) easy to use Miiverse integration module, aiming to make Miiverse integration features easy to implement into Godot projects.
   * [Mii classes](https://github.com/c08oprkiua/Godot-4-Mii-Classes): Mii integration features, in order to more easily work with Mii data in Godot.
 * [Inkay Engine](https://github.com/c08oprkiua/Inkay-engine): WIP modification of [Inkay by Pretendo Network](https://github.com/PretendoNetwork/Inkay), with the end goal of implementing modular profiles for improving end-user QoL.
 * Two game/engine rewrites:

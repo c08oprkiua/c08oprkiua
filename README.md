@@ -31,9 +31,10 @@
   * [`gd_olv`](https://github.com/c08oprkiua/gd_olv): A (hopefully) easy to use Miiverse integration module, aiming to make Miiverse integration features easy to implement into Godot projects.
   * [Mii classes](https://github.com/c08oprkiua/Godot-4-Mii-Classes): Mii integration features, in order to more easily work with Mii data in Godot.
 * [Inkay Engine](https://github.com/c08oprkiua/Inkay-engine): WIP modification of [Inkay by Pretendo Network](https://github.com/PretendoNetwork/Inkay), with the end goal of implementing modular profiles for improving end-user QoL.
-* Two game/engine rewrites:
+* Three game/engine rewrites:
   * [VitaVehicle](https://github.com/c08oprkiua/g-rcp2/tree/godot-4.0.3-conversion) A realistic car physics routine for Godot 3 and 4, of which I mainly work on the latter version's branch.
   * [Space Game](https://github.com/c08oprkiua/space-game-rewrite): The Godot port of the multi-platform homebrew game. I am working on updating it to Godot 4 (from 3) and redesigning it to more "natively" use Godot's feature set.
+  * [Flow Engine](https://github.com/c08oprkiua/flow-engine): a framework for making modern Sonic styled Sonic fangames, which I have ported to Godot 4, added several new features to, and fixed several bugs.
 * And more, not listed
 
 
